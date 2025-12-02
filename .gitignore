@@ -1,0 +1,14 @@
+# global
+node_modules/
+dist/
+.env
+.DS_Store
+
+# ignore lambda/node_modules only
+lambda/**/node_modules/
+
+# ignore Layers node_modules only
+Layers/**/node_modules/
+
+# optional: ignore deployment zips
+*.zip

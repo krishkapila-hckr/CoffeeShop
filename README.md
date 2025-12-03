@@ -196,9 +196,3 @@ GitHub: https://github.com/krishkapila-hckr
 
 Project Repo: https://github.com/krishkapila-hckr/CoffeeShop
 
-
----
-
-# 🎉 You can now paste this directly into your README.md — it’s final and complete.
-
-If you want an **aesthetic/badged version** or **banner**, just tell me.
